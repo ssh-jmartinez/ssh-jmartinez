@@ -9,15 +9,13 @@ I enjoy building scalable platforms, automating workflows and creating real-worl
 ## 🛠 Tech Stack
 
 ### DevOps & Cloud
-- Kubernetes
-- OpenShift
-- Docker
-- Podman
-- ArgoCD
-- Tekton
-- GitHub Actions
-- SonarQube
-- Linux
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?logo=tekton&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### Development
 - React
