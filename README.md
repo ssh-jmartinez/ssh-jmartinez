@@ -4,9 +4,6 @@
 
 I enjoy building scalable platforms, automating workflows and creating real-world infrastructure demos that simulate production problems at scale.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh-jmartinez&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssh-jmartinez&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠 Tech Stack
